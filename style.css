@@ -14,7 +14,7 @@ html {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #ff2f92;
+  background: white;
   display: flex;
   justify-content: space-between;
   padding: 15px 40px;
@@ -27,7 +27,7 @@ html {
 }
 
 .header nav a {
-  color: white;
+  color: #D4AF37;
   margin-left: 20px;
   text-decoration: none;
 }
